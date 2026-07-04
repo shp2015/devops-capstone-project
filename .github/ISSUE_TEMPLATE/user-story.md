@@ -11,8 +11,8 @@ about: The template is for creating user stories
     * [document what you know]      
 
 ### Acceptance Criteria
-    ```gherkin 
-    Given [the initial context or starting state of the system]
-    When [the user performs a specific action]
-    Then [the expected observable outcome or change in the system]
-    ```
+```gherkin 
+Given [the initial context or starting state of the system]
+When [the user performs a specific action]
+Then [the expected observable outcome or change in the system]
+```
